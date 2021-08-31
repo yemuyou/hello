@@ -1,5 +1,5 @@
 /**
- * Author: Bingquan Li
+ * Author: Bingquan Li;    dudulu2
  *         bli24@cse.unl.edu
  * Date: 2021/08/30
  *
@@ -12,6 +12,7 @@
 int main(){
 
   printf("name:Bingquan Li\n");
+  printf("computer science, dudulu2\n");
 
   return 0;
 }
