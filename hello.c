@@ -11,7 +11,7 @@
 
 int main(){
 
-  printf("Bingquan Li\n");
+  printf("name:Bingquan Li\n");
 
   return 0;
 }
