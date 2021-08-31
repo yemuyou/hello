@@ -12,7 +12,8 @@
 int main(){
 
   printf("name:Bingquan Li\n");
-  printf("computer science, dudulu2\n");
+  printf("computer science \n");
+  printf("Xunqt Shen") 
 
   return 0;
 }
